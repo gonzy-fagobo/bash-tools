@@ -1,0 +1,5 @@
+*.log
+*.tmp
+*.partial.*
+.DS_Store
+_REVISAR/
